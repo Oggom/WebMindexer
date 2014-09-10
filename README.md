@@ -47,7 +47,7 @@ WebM folders (youll need to reindex the folders again, to fill the OMNI-Page).
 
 
 
-Keyboard-Keys for viewing Videos (works in Mozilla Firefox, once you clicked on video-thumbnail) :
+Keyboard-Keys for viewing Videos <br>(works best in Mozilla Firefox, once you clicked on video-thumbnail) :
 ==================================================================================================
 next:               right arrow, page down,  down arrow, enter<br />
 prev :              left arrow, page up, up arrow, backspace<br />
