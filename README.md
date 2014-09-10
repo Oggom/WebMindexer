@@ -80,4 +80,7 @@ change value of "playSpeed" parameter in "jquery.fancybox.js" at line 87 (ex. 50
 
 
 
-
+Notes
+================================================================= 
+WebMinDEXER is still buggy and does not support folders/files with unicode characters.
+To be safe, for now use english letters and numbers only, when naming your WebM files and folders.
