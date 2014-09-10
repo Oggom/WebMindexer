@@ -1,7 +1,16 @@
 WebMindexer
 ===========
-WebMindexer v2.15 Download<br>
+WebMindexer v2.15 Download:<br>
 https://github.com/neojam/WebMindexer/releases
+
+
+
+
+
+[Demonstration:](http://a.pomf.se/lmxjus.webm)
+
+[![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://a.pomf.se/lmxjus.webm)
+
 
 What it does:
 =================================================================  
@@ -71,6 +80,4 @@ change value of "playSpeed" parameter in "jquery.fancybox.js" at line 87 (ex. 50
 
 
 
-[Demonstration:](http://a.pomf.se/lmxjus.webm)
 
-[![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://a.pomf.se/lmxjus.webm)
