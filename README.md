@@ -1,6 +1,6 @@
 WebMindexer
 ===========
-WebMindexer v2.15 Download:<br>
+WebMindexer v2.55 Download:<br>
 https://github.com/neojam/WebMindexer/releases
 
 
