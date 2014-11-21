@@ -9,7 +9,7 @@ https://github.com/neojam/WebMindexer/releases
 
 [Demonstration:](http://a.pomf.se/lmxjus.webm)
 
-[![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://a.pomf.se/lmxjus.webm)
+[![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](https://dl2.volafile.io/get/fSDwPtqra60tF/info.webm)
 
 
 What it does:
